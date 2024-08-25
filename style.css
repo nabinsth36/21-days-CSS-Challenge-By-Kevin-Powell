@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  background: #23424a;
+  color: white;
+
+  width: 80%;
+  margin: 0 auto;
+
+  padding: 5em; /* 16 * 5 = 80px */
+}
+/* 
+.parent {
+  background-color: #23424a;
+  padding: 50px;
+
+  margin: 0 auto;
+  width: 80%;
+}
+
+.child {
+  background-color: #38cfd9;
+  width: 50%;
+  height: 250px;
+} */
