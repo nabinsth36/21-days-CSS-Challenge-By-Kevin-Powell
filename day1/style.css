@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 0 50px;
+  color: aliceblue;
+}
+
+.item {
+  width: 50%;
+}
+.container {
+  background-color: #23424a;
+  padding: 3em;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 1.5em;
+  padding-bottom: 10px;
+}
+
+.para {
+  font-size: 1em;
+}
