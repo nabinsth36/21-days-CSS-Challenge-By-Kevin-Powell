@@ -30,3 +30,62 @@ body {
   width: 50%;
   height: 250px;
 } */
+
+html{
+  font-size: 16px;
+}
+
+@media(min-width: 700px){
+  html{
+    font-size: 25px;
+  }
+}
+
+  .col--em h1{
+    font-size: 2.5em;
+    margin-bottom: 1rem;
+  }
+
+  .col--em p{
+    font-size: 1em;
+  }
+
+  .col--rem{}
+
+  .col--rem h1{
+    font-size: 2.5rem;
+  }
+
+  .call-to-action{
+    background: linear-gradient(to left, #fdd274,#fbad7c);
+        padding: 3em 0;
+    color: white;
+    text-shadow: 0 0 15px rgba(0,0,0,.5);
+    margin-top: 500px;
+    font-size: 1em;
+
+  }
+
+  .btn{
+    display: inline-block;
+    background:black;
+    font-weight: 700;
+    letter-spacing: 5px;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 1em 3rem;
+    margin: 0 0.25rem;
+  }
+
+  .btn--small{
+    font-size: .5em;
+  }
+
+  .btn--lrg{
+    font-size: 1.5em
+  }
+
+  .call-to-action--small{
+    font-size: .5em;
+  }
