@@ -6,22 +6,25 @@
 
 body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  padding: 0 50px;
-  color: aliceblue;
+  
+  
+  
 }
 
-.item {
-  width: 50%;
-}
 .container {
-  background-color: #23424a;
+  background-color: #3058ae;
   padding: 3em;
-  width: 80%;
+  width: 60%;
   margin: 0 auto;
 }
 
+.child {
+  width: 40%;
+  color: white;
+}
+
 .title {
-  font-size: 1.5em;
+  font-size: 2em;
   padding-bottom: 10px;
 }
 
